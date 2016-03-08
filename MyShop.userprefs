@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="MyShop.Android\MyShop.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_GalaxyNexus_ToolsForApacheCordova" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyShop\Views\StoresPage.xaml">
+    <Files>
+      <File FileName="MyShop\Views\MapPage.xaml" Line="1" Column="1" />
+      <File FileName="MyShop\Views\SignUpPage.xaml" Line="1" Column="1" />
+      <File FileName="packages\Xamarin.Forms.2.1.0.6524\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Line="62" Column="3" />
+      <File FileName="MyShop\Views\StoresPage.xaml" Line="39" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
